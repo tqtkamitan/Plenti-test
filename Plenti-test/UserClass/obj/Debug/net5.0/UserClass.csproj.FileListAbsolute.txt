@@ -1,0 +1,12 @@
+C:\quangtanwork\Personal\personal work\plenti\Plenti-test\UserClass\bin\Debug\net5.0\UserClass.deps.json
+C:\quangtanwork\Personal\personal work\plenti\Plenti-test\UserClass\bin\Debug\net5.0\UserClass.dll
+C:\quangtanwork\Personal\personal work\plenti\Plenti-test\UserClass\bin\Debug\net5.0\UserClass.pdb
+C:\quangtanwork\Personal\personal work\plenti\Plenti-test\UserClass\obj\Debug\net5.0\UserClass.csproj.AssemblyReference.cache
+C:\quangtanwork\Personal\personal work\plenti\Plenti-test\UserClass\obj\Debug\net5.0\UserClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\quangtanwork\Personal\personal work\plenti\Plenti-test\UserClass\obj\Debug\net5.0\UserClass.AssemblyInfoInputs.cache
+C:\quangtanwork\Personal\personal work\plenti\Plenti-test\UserClass\obj\Debug\net5.0\UserClass.AssemblyInfo.cs
+C:\quangtanwork\Personal\personal work\plenti\Plenti-test\UserClass\obj\Debug\net5.0\UserClass.csproj.CoreCompileInputs.cache
+C:\quangtanwork\Personal\personal work\plenti\Plenti-test\UserClass\obj\Debug\net5.0\UserClass.dll
+C:\quangtanwork\Personal\personal work\plenti\Plenti-test\UserClass\obj\Debug\net5.0\refint\UserClass.dll
+C:\quangtanwork\Personal\personal work\plenti\Plenti-test\UserClass\obj\Debug\net5.0\UserClass.pdb
+C:\quangtanwork\Personal\personal work\plenti\Plenti-test\UserClass\obj\Debug\net5.0\ref\UserClass.dll

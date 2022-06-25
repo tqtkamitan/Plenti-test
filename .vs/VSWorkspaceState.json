@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Plenti-test",
+    "\\Plenti-test\\ConsoleApp1"
   ],
+  "SelectedNode": "\\Plenti-test\\ConsoleApp1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
